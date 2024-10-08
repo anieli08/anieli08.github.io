@@ -1,0 +1,32 @@
+body{
+      background-color: rgb(253, 253, 253);
+     color: black;
+     font-family: "Baskervville SC", serif;
+     padding: 0 150px;
+
+}
+header{
+        background-color: azure;
+         padding: 40px;
+
+}
+p{
+   font-size: 20px;
+
+}
+.links{
+    color:aliceblue
+    font-size: 35px;
+    text-decoration: none;
+    background-color: pink;
+    padding: 15px 10px;
+    border-radius:30px;
+
+}
+.titulo{
+    color:azure;
+    text-align:center;
+}
+
+
+
